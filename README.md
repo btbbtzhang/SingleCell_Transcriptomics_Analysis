@@ -34,7 +34,7 @@ Waiting for my spare time to finish this part...
 <br />
 <br />
 
-### Visualizations of results
+### Visualizations of Results
 ![ezgif com-crop](https://github.com/user-attachments/assets/d9a994de-f4fd-47cd-a81e-7dc2c763c6c3)
 
 
