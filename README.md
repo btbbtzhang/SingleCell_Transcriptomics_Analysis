@@ -1,8 +1,10 @@
 # SingleCell_Transcriptomics_Analysis
-**Keyword:** Single cell analysis, data integration, memory conversion into disk for large-scale datasets (memory reduction), visualization, bulk RNA cell-type prediction
 ### Aim:   
 This project aims to create a purified integrated public porcin data as our reference to investigate and monitor our experimental muscle cells status, which further guide our lab experiments, including biomarker designing in qPCR, bulk rna celltype identification, etc., rearching out our ultimate goal of efficiently producing cultivated meat.    
 It is mainly About 3 packages applications and some customized functions in R.
+<br />
+<br />
+**Keyword:** Single cell analysis, data integration, memory conversion into disk for large-scale datasets (memory reduction), visualization, bulk RNA cell-type prediction
 <br />
 <br />
 <br />
